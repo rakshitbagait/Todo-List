@@ -105,5 +105,5 @@ This setup allows the app to maintain **state between sessions**, support **sear
 
 ## Screenshots
 
-![App Screenshot](C:\Users\Rakshit\OneDrive\画像\Screenshots\Screenshot (43).png)
+![App Screenshot](images/Screenshot%20(43).png)
 
